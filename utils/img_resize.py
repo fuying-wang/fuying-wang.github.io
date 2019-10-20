@@ -1,10 +1,10 @@
 from PIL import Image
 
 def main():
-	img_path_list = ["../Research1_face_recognition/introduction.png",
-	"../Research2_template_adaptation/introduction.png",
-	"../Research3_GAN/introduction.png",
-	"../SRT_CSI/csi.png"
+	img_path_list = ["../project1-dpu/dpu.png",
+	#"../Research2_template_adaptation/introduction.png",
+	#"../Research3_GAN/introduction.png",
+	#"../SRT_CSI/csi.png"
 	]
 
 	width, height = 300, 200
